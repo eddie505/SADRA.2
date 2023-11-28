@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512134537203",
+    "project_id": "sadra-32881",
+    "storage_bucket": "sadra-32881.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512134537203:android:5a467e2b86e89f12ae7c86",
+        "android_client_info": {
+          "package_name": "com.example.sadra2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjS620EgwxL8pPxMYQoh-91nQYU5jsvKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
